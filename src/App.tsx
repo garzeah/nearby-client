@@ -1,11 +1,15 @@
+import React from 'react';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Nearby</h1>
+const App = () => {
+
+  return(
+    <div>
+      
+
     </div>
-  );
+  )
+
 }
 
 export default App;
